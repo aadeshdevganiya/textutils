@@ -12,9 +12,7 @@ export default function Navbar(props) {
         </button>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav m-auto mb-2 mb-lg-0">
-            <Link to="/">Home</Link>
-            <Link to="/About">About</Link>
-            <Link to="/Blog">Blog</Link>
+
           </ul>
         </div>
         <div>
